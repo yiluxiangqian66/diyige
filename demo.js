@@ -5,3 +5,4 @@ console.log(777);
 function data(n) {
     console.log(n);
 }
+alert(window.innerWidth);
